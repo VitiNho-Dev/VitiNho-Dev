@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Victor Henrique!
 
-<!--
-**VitiNho-Dev/VitiNho-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formado em Gestão de TI** pela Fatec Tatuí.  
+💻 Desenvolvedor Mobile com especialidade em Flutter e experiência em projetos com APIs, CI/CD, testes e boas práticas de arquitetura.  
+📚 Sempre em busca de aprendizado, atualmente estudando Go e aprofundando minhas habilidades em backend.  
 
-Here are some ideas to get you started:
+## 🚀 Minhas principais stacks:
+- **Mobile**: Flutter, Dart
+- **Backend**: Go, Firebase, SQL (PostgreSQL, SQLite)
+- **Ferramentas**: Git, Docker, Google Cloud Run, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos em destaque:
+- **[App Masterclass](https://github.com/VitiNho-Dev/appmasterclass)**: Esse app foi feito ao finalizar o curso de Flutter iniciante, onde apliquei todo aprendizado que adquiri durante o curso.
+- **[Nlw Together](https://github.com/VitiNho-Dev/nlw-Together)**: Esse app foi construído durante um evento da Rocketseat chamado de Next Level Week, construímos esse app em uma semana onde abordamos construção de layouts, gerenciamento de estado, arquitetura e ferramentas como google_sign_in e google_ml_kit.
+- **[Flutter Race](https://github.com/VitiNho-Dev/FlutterRace)**: Esse app foi feito em um evento que o GabulDev fez no canal dele, um app para gerenciar os gastos do dia a dia, nesse app aprendi a usar o Supabase como Backend, além de construção de tela robusta e boas práticas de Flutter.
+- **[Go Books](https://github.com/VitiNho-Dev/gobooks)**: Esse projeto foi feito em um evento do canal FullCycle onde aprendi a construir uma API com Golang usando SQLite, Docker e boas praticas em Golang.
+
+📫 Entre em contato:  
+[LinkedIn](https://www.linkedin.com/in/victor-dev-mobile) | [E-mail](victorhenrique121413@gmail.com)
+
