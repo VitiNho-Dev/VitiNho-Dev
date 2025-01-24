@@ -2,12 +2,12 @@
 
 🎓 **Formado em Gestão de TI** pela Fatec Tatuí.  
 💻 Desenvolvedor Mobile com especialidade em Flutter e experiência em projetos com APIs, CI/CD, testes e boas práticas de arquitetura.  
-📚 Sempre em busca de aprendizado, atualmente estudando Go e aprofundando minhas habilidades em backend.  
+📚 Sempre em busca de aprendizado, atualmente estudando Go e aprofundando minhas habilidades em backend.
 
 ## 🚀 Minhas principais stacks:
-- **Mobile**: Flutter, Dart
-- **Backend**: Go, Firebase, SQL (PostgreSQL, SQLite)
-- **Ferramentas**: Git, Docker, Google Cloud Run, CI/CD
+- **Mobile**: Flutter, Dart, Kotlin.
+- **Backend**: Go, Firebase, SQL (PostgreSQL, SQLite).
+- **Ferramentas**: VS Code, Android Studio, XCode, Git, Docker, Postman, Google Cloud, GitHub Actions (CI/CD).
 
 ## 🌟 Projetos em destaque:
 - **[App Masterclass](https://github.com/VitiNho-Dev/appmasterclass)**: Esse app foi feito ao finalizar o curso de Flutter iniciante, onde apliquei todo aprendizado que adquiri durante o curso.
@@ -17,4 +17,3 @@
 
 📫 Entre em contato:  
 [LinkedIn](https://www.linkedin.com/in/victor-dev-mobile) | [E-mail](victorhenrique121413@gmail.com)
-
