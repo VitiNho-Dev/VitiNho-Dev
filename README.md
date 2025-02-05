@@ -35,7 +35,7 @@
 - **[Flutter Race](https://github.com/VitiNho-Dev/FlutterRace)**: Esse app foi feito em um evento que o GabulDev fez no canal dele, um app para gerenciar os gastos do dia a dia, nesse app aprendi a usar o Supabase como Backend, além de construção de tela robusta e boas práticas de Flutter.
 - **[Go Books](https://github.com/VitiNho-Dev/gobooks)**: Esse projeto foi feito em um evento do canal FullCycle onde aprendi a construir uma API com Golang usando SQLite, Docker e boas praticas em Golang.
 
-📫 Entre em contato:
+## 📫 Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev-mobile)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorhenrique121413@gmail.com)
