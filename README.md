@@ -32,7 +32,7 @@
 - **[App Masterclass](https://github.com/VitiNho-Dev/appmasterclass)**: Esse app foi feito ao finalizar o curso de Flutter iniciante, onde apliquei todo aprendizado que adquiri durante o curso.
 - **[Nlw Together](https://github.com/VitiNho-Dev/nlw-Together)**: Esse app foi construído durante um evento da Rocketseat chamado de Next Level Week, construímos esse app em uma semana onde abordamos construção de layouts, gerenciamento de estado, arquitetura e ferramentas como google_sign_in e google_ml_kit.
 - **[Flutter Race](https://github.com/VitiNho-Dev/FlutterRace)**: Esse app foi feito em um evento que o GabulDev fez no canal dele, um app para gerenciar os gastos do dia a dia, nesse app aprendi a usar o Supabase como Backend, além de construção de tela robusta e boas práticas de Flutter.
-- **[Go Books](https://github.com/VitiNho-Dev/gobooks)**: Esse projeto foi feito em um evento do canal FullCycle onde aprendi a construir uma API com Golang usando SQLite, Docker e boas praticas em Golang.
+- **[Go Books](https://github.com/VitiNho-Dev/gobooks)**: Esse projeto foi feito em um evento do canal FullCycle onde aprendi conceitos básicos da linguagem Go e também a construir uma API usando SQLite, Docker e boas praticas em Go.
 
 ## 📫 Entre em contato:
 
