@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Victor Henrique!
 
 🎓 **Formado em Gestão de TI** pela Fatec Tatuí.  
-💻 Desenvolvedor Mobile com especialidade em Flutter e experiência em projetos com APIs, CI/CD, testes e boas práticas de arquitetura.  
-📚 Sempre em busca de aprendizado, atualmente estudando Go e aprofundando minhas habilidades em Backend.
+💻 Engenheiro de Software com especialidade em Flutter e experiência em projetos com APIs, CI/CD, testes e boas práticas de arquitetura.  
+📚 Sempre em busca de aprendizado, crescimento pessoal e aprofundando cada vez mais minhas habilidades em programação e desenvolvimento de software.
 
 ## 🚀 Minhas principais stacks:
 - **Mobile**: 
